@@ -1,0 +1,1 @@
+export const SPA_HOME = "./home";
