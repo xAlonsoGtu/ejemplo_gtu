@@ -14,12 +14,12 @@ git -v
 ```
 <br/>
 
-### -Crear una nueva carpeta con el nombre “xxx”
+### -Crear una nueva carpeta con el nombre “computo_nube”
 <br/>
 
 
-### -Abre Visual Code y accede a la carpeta creada “xxx”
-Archivo -> Abrir folder -> Selecciona la carpeta “xxx”
+### -Abre Visual Code y accede a la carpeta creada “computo_nube”
+Archivo -> Abrir folder -> Selecciona la carpeta “computo_nube”
 <br/>
 <br/>
 
