@@ -17,6 +17,16 @@ function HomePage(){
         >
           Aprende React
         </a>
+        <br />
+
+        <a
+          className="App-link"
+          href="./usuario/add"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Usuarios
+        </a>
       </header>
     </div>
   );
